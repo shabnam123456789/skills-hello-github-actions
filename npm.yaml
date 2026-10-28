@@ -2,9 +2,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "shabnam123456789-patch-1" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "shabnam123456789-patch-1" ]
 
 jobs:
   build:
